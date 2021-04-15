@@ -1,9 +1,9 @@
-# README 
+# Agenda 
 
 >This project is using ruby on rails, a framework ruby, with proporse to make a schedule. 
 
-<img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" width="100px"/> 
-<img src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo.png" width="100px"/>
+<img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="rails logo" width="10%"/> 
+<img src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo.png" alt="ruby logo" width="10%"/>
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
